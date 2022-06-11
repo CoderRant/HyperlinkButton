@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "HyperlinkButton (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "HyperlinkButton (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
